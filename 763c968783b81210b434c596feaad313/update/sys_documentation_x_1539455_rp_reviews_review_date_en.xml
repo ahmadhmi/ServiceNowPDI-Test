@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="review_date" label="Review Date" language="en" table="x_1539455_rp_reviews">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>review_date</element>
+            <help/>
+            <hint/>
+            <label>Review Date</label>
+            <language>en</language>
+            <name>x_1539455_rp_reviews</name>
+            <plural>Review Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-27 02:53:48</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Review Date</sys_name>
+            <sys_package display_value="Rotten Potatoes" source="x_1539455_rp">763c968783b81210b434c596feaad313</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rotten Potatoes">763c968783b81210b434c596feaad313</sys_scope>
+            <sys_update_name>sys_documentation_x_1539455_rp_reviews_review_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-27 02:53:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

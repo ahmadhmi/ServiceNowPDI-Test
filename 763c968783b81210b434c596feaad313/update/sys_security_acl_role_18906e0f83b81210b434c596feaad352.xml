@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 02:49:13</sys_created_on>
+        <sys_id>18906e0f83b81210b434c596feaad352</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1539455_rp_reviews.x_1539455_rp.reviews_user</sys_name>
+        <sys_package display_value="Rotten Potatoes" source="x_1539455_rp">763c968783b81210b434c596feaad313</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rotten Potatoes">763c968783b81210b434c596feaad313</sys_scope>
+        <sys_security_acl display_value="x_1539455_rp_reviews">10906e0f83b81210b434c596feaad34f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_18906e0f83b81210b434c596feaad352</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 02:49:13</sys_updated_on>
+        <sys_user_role display_value="x_1539455_rp.reviews_user" name="x_1539455_rp.reviews_user">e78066cb83b81210b434c596feaad37c</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

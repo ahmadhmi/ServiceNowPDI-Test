@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Rotten Potatoes">c1bc56c783b81210b434c596feaad377</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Games</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 02:32:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>45bc56c783b81210b434c596feaad37b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Games</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Rotten Potatoes" source="x_1539455_rp">763c968783b81210b434c596feaad313</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rotten Potatoes">763c968783b81210b434c596feaad313</sys_scope>
+        <sys_update_name>sys_app_module_45bc56c783b81210b434c596feaad37b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 02:32:21</sys_updated_on>
+        <timeline_page/>
+        <title>Games</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rotten Potatoes">763c968783b81210b434c596feaad313</application>
+        <file_path/>
+        <instance_id>d415a24f1b954a94168f4089bd4bcbac</instance_id>
+        <instance_name>dev256297</instance_name>
+        <name>sys_app_module_45bc56c783b81210b434c596feaad37b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Rotten Potatoes">c1bc56c783b81210b434c596feaad377</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Games</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-27 02:32:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>45bc56c783b81210b434c596feaad37b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Games</sys_name><sys_overrides/><sys_package display_value="Rotten Potatoes" source="x_1539455_rp">763c968783b81210b434c596feaad313</sys_package><sys_policy/><sys_scope display_value="Rotten Potatoes">763c968783b81210b434c596feaad313</sys_scope><sys_update_name>sys_app_module_45bc56c783b81210b434c596feaad37b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-27 02:32:21</sys_updated_on><timeline_page/><title>Games</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1187150503</payload_hash>
+        <record_name>Games</record_name>
+        <reverted_from/>
+        <source>833c968783b81210b434c596feaad318</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 02:32:21</sys_created_on>
+        <sys_id>8dbc56c783b81210b434c596feaad37e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19231527a450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 02:32:21</sys_updated_on>
+        <type>Module</type>
+        <update_guid>41bc56c769b8121097d201da4777cb7e</update_guid>
+        <update_guid_history>41bc56c769b8121097d201da4777cb7e:1187150503</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Games">dc6dd20b83b81210b434c596feaad333</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 02:35:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>02ede8354db145668314c8650f1cedb1</sys_id>
+        <sys_metadata>45bc56c783b81210b434c596feaad37b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Games</sys_name>
+        <sys_package display_value="Rotten Potatoes" source="x_1539455_rp">763c968783b81210b434c596feaad313</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rotten Potatoes">763c968783b81210b434c596feaad313</sys_scope>
+        <sys_scope_delete display_value="">03d1f8b498b94fc4849e4551efa50184</sys_scope_delete>
+        <sys_update_name>sys_app_module_45bc56c783b81210b434c596feaad37b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_45bc56c783b81210b434c596feaad37b">8dbc56c783b81210b434c596feaad37e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 02:35:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
